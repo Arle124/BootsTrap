@@ -1,0 +1,12 @@
+.container{
+    background-color: red;
+}
+
+.container-fluid{
+    background-color: blue;
+}
+
+a img{
+    width: 100%;
+    height: 100%;
+}
